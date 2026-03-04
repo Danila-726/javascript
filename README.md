@@ -1,4 +1,4 @@
-# MEGA KAKASHECHKI 1
+# MEGA KAKASHECHKI 2
 
 # Airbnb JavaScript Style Guide() {
 
